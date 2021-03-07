@@ -1,0 +1,85 @@
+﻿  ConsoleApplication47.cpp
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(161): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(162): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(163): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(218): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(219): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(256): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(257): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(480): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(534): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(587): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(640): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(698): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(718): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(728): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(738): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(748): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(756): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(772): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(779): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(789): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(799): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(807): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(823): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(833): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(840): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(850): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(858): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(874): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(884): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(894): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(901): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(909): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(922): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(930): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(938): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(946): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(953): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1467): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1519): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1710): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1731): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1747): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1748): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1749): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1750): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1751): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1756): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1757): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1758): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1873): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+c:\users\周琳婕\source\repos\consoleapplication47\consoleapplication47\consoleapplication47.cpp(1057): warning C4715: “judge_lane”: 不是所有的控件路径都返回值
+  ConsoleApplication47.vcxproj -> C:\Users\周琳婕\source\repos\ConsoleApplication47\x64\Debug\ConsoleApplication47.exe
